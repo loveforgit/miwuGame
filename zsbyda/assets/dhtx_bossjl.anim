@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dhtx_bossjl",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 2,
+  "wrapMode": "22",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.11666666666666667,
+          "value": [
+            -0.6,
+            -4.7
+          ]
+        },
+        {
+          "frame": 0.25,
+          "value": [
+            2.9,
+            -2.8
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

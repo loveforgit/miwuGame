@@ -1,0 +1,239 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jiantou1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "jiantou1": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -98,
+                9
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -106,
+                9
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -98,
+                9
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -106,
+                9
+              ]
+            }
+          ]
+        }
+      },
+      "jiantou2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                96,
+                9
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                106,
+                9
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                96,
+                9
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                105,
+                9
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jiantou3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -3,
+                -143
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -3,
+                -158
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -3,
+                -142
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -4,
+                -158
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "jiantou4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                -3,
+                145
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -3,
+                156
+              ]
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": [
+                -3,
+                143
+              ]
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": [
+                -4,
+                155
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 255
+            },
+            {
+              "frame": 0.5833333333333334,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

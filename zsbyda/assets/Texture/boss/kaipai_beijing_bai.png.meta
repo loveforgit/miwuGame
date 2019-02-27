@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3e96a940-db6d-4f5d-8127-4b842c711810",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kaipai_beijing_bai": {
+      "ver": "1.0.3",
+      "uuid": "32885e3a-fb74-4909-a3d4-2bc8d94901c6",
+      "rawTextureUuid": "3e96a940-db6d-4f5d-8127-4b842c711810",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 178,
+      "height": 274,
+      "rawWidth": 178,
+      "rawHeight": 274,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

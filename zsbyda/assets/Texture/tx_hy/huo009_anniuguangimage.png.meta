@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b52acf5f-f5aa-40ae-a1b7-6753f72a7df4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "huo009_anniuguangimage": {
+      "ver": "1.0.3",
+      "uuid": "5a719463-e0d0-4487-b8fe-40d5cbffe956",
+      "rawTextureUuid": "b52acf5f-f5aa-40ae-a1b7-6753f72a7df4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 110,
+      "height": 83,
+      "rawWidth": 110,
+      "rawHeight": 83,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

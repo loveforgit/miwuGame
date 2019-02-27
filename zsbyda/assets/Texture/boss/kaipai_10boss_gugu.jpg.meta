@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f771491d-1411-4342-89bf-d542ffd98606",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kaipai_10boss_gugu": {
+      "ver": "1.0.3",
+      "uuid": "c9ca071d-f976-4345-a860-9254644f1893",
+      "rawTextureUuid": "f771491d-1411-4342-89bf-d542ffd98606",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 249,
+      "rawWidth": 157,
+      "rawHeight": 249,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

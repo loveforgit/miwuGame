@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "389f5474-dbe1-4e54-866c-2490d5f03d72",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kaipai_3boss_namei": {
+      "ver": "1.0.3",
+      "uuid": "ac4720b0-c781-460d-b075-f88e6f721e8b",
+      "rawTextureUuid": "389f5474-dbe1-4e54-866c-2490d5f03d72",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 249,
+      "rawWidth": 157,
+      "rawHeight": 249,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

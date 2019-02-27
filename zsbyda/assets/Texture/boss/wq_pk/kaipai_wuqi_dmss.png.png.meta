@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4e5dad8f-acc3-41a8-8eef-6329b73af9ea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "kaipai_wuqi_dmss.png": {
+      "ver": "1.0.3",
+      "uuid": "39d90a52-085c-497a-970e-150980e0d6a4",
+      "rawTextureUuid": "4e5dad8f-acc3-41a8-8eef-6329b73af9ea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 157,
+      "height": 249,
+      "rawWidth": 157,
+      "rawHeight": 249,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
